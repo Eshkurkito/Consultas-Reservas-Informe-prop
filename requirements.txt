@@ -6,4 +6,6 @@ altair>=5.0
 pyarrow>=15.0
 XlsxWriter>=3.1
 fpdf2==2.7.9
+matplotlib>=3.5
+
 
